@@ -1,3 +1,3 @@
 # MAP_practical1
 
-Commands about github 
+Done Using Github website
